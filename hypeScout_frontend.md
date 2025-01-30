@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-The **Influencer Frontend** is a web application designed to provide influencer-related functionalities with a seamless and responsive user experience. Built using **React** and powered by **Vite**, this project ensures high performance, efficient data fetching, and a smooth UI. The project incorporates third-party services for analytics, authentication, and real-time updates.
+This is a web application designed to provide influencer-related functionalities with a seamless and responsive user experience. Built using **React** and powered by **Vite**, this project ensures high performance, efficient data fetching, and a smooth UI. The project incorporates third-party services for analytics, authentication, and real-time updates.
 
 ## 🛠 Tech Stack
 
